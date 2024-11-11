@@ -1,3 +1,3 @@
-01 Natanael Alves Fernandes
-02 Debora Pereira de Rezende
+1. Natanael Alves Fernandes
+2. Debora Pereira de Rezende
 
